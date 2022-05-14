@@ -11,7 +11,7 @@ class Node
     Node *right;
 
 public:
-    Node() // Default Con
+    Node() // Default Constructer
     {
         data = 0;
         left = NULL;
